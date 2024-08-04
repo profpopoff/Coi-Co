@@ -1,0 +1,9 @@
+:root {
+    --background: #10141F;
+    --element-background: #161D2F;
+    --element-color: #5A6A91;
+    --accent-color: #F74943;
+
+    --header-width: 6rem;
+    --main-padding: 1.5rem;
+  }
