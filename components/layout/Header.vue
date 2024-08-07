@@ -61,9 +61,6 @@ header {
 }
 
 ul[role='list'] {
-    list-style: none;
-    margin: 0;
-    padding: 0;
     display: grid;
     gap: 2rem;
 }

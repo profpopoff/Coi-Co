@@ -6,7 +6,7 @@
 </template>
 
 <style>
-@import url(./styles/index.css);
+@import url(./assets/styles/index.css);
 
 body {
   color: #fff;
