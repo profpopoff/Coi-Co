@@ -1,6 +1,7 @@
 <template>
   <Header />
   <main>
+    <!-- <poisk> -->
     <NuxtPage />
   </main>
 </template>
@@ -11,6 +12,7 @@
 body {
   color: #fff;
   background-color: var(--background);
+  font-family: Outfit, sans-serif;
 }
 
 main {

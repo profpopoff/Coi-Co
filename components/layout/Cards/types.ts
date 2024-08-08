@@ -3,4 +3,9 @@ export interface CardData {
   title: string;
   year: number;
   ageLimit?: string;
+  type: string;
+  image: {
+    landscape: string;
+    poster: string;
+  };
 }

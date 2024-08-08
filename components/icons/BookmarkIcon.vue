@@ -1,5 +1,6 @@
 <template>
-    <svg id="bookmark" data-name="bookmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420.97 500">
+    <svg id="bookmark" data-name="bookmark" fill="currentColor" xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 420.97 500">
         <path class="cls-1"
             d="M380.43,493.12l-152.65-140.34c-9.16-8.42-22.76-8.47-31.97-.11-51.8,47.01-103.59,94.02-155.39,141.04C24.53,508.14,0,496.15,0,473.96V25.99C0,11.63,10.97,0,24.5,0h371.98c13.53,0,24.5,11.63,24.5,25.99v447.5c0,22.27-24.68,34.22-40.54,19.64Z" />
     </svg>

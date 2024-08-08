@@ -14,12 +14,12 @@
                 </li>
                 <li class="icon-container">
                     <NuxtLink to="/movies">
-                        <MoviesLink class="icon" />
+                        <MovieIcon class="icon" />
                     </NuxtLink>
                 </li>
                 <li class="icon-container">
                     <NuxtLink to="/tv">
-                        <TvLink class="icon" />
+                        <TvIcon class="icon" />
                     </NuxtLink>
                 </li>
                 <li class="icon-container">

@@ -19,9 +19,14 @@ defineProps<CardListProps>()
 </template>
 
 <style scoped>
+h2 {
+    font-weight: 300;
+    padding-bottom: var(--main-padding);
+}
+
 .cards {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
+    display: grid;
+    gap: var(--main-padding);
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
 }
 </style>
